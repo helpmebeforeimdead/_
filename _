@@ -1,0 +1,15 @@
+local GetBotGlobal = getgenv and getgenv()
+
+GetBotGlobal.NormalMessages = {
+    "girls send a twrk vid | veilboy on eyeg(pink 📷 app)",
+    "game is so over LOOOL | veilboy on eyeg(pink 📷 app)",
+    "im so bored dude | veilboy on eyeg(pink 📷 app)",
+    "botting is amazing dude | veilboy on eyeg(pink 📷 app)",
+    "the end | veilboy on eyeg(pink 📷 app)",
+    "do you know what you're doing? | veilboy on eyeg(pink 📷 app)",
+    "im the best | veilboy on eyeg(pink 📷 app)",
+    "tell em clutch | veilboy on eyeg(pink 📷 app)",
+    "ur not real | veilboy on eyeg(pink 📷 app)",
+    "cant say it | veilboy on eyeg(pink 📷 app)",
+    "what do you mean | veilboy on eyeg(pink 📷 app)"
+}
