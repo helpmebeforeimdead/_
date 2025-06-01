@@ -1,6 +1,6 @@
 local GetBotGlobal = getgenv and getgenv()
 
 GetBotGlobal.NormalMessages = {
-    "veilboy on (pink 📷 app) | krone",
+    "veilboy (pink camera app) | krone",
 
 }
