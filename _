@@ -1,15 +1,6 @@
 local GetBotGlobal = getgenv and getgenv()
 
 GetBotGlobal.NormalMessages = {
-    "game is so over LOOOL | veilboy on (pink 📷 app)",
-    "im so bored dude | veilboy on (pink 📷 app)",
-    "botting is amazing dude | veilboy on (pink 📷 app)",
-    "the end | veilboy on (pink 📷 app)",
-    "do you know what you're doing? | veilboy on (pink 📷 app)",
-    "im the best | veilboy on (pink 📷 app)",
-    "tell em clutch | veilboy on (pink 📷 app)",
-    "ur not real | veilboy on (pink 📷 app)",
-    "cant say it | veilboy on (pink 📷 app)",
-    "what do you mean | veilboy on (pink 📷 app)",
+    "veilboy on (pink 📷 app) | krone",
 
 }
