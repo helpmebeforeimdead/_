@@ -1,5 +1,10 @@
-local GetBotGlobal = getgenv and getgenv()
-
-GetBotGlobal.NormalMessages = {
-    "#FREEKRONE",
+getgenv().VariableTable = {
+    [1] = {
+        [1] = "hey listen.",
+        [2] = "if you ever see anyone named krone, his user is probably just a bunch of spammed letters.",
+        [3] = "he has about 600k+ coins on this game.",
+        [4] = "just walk up to him and say #FREEKRONE",
+        [5] = "if you want to personally find his roblox, search kr2ne.",
+        [6] = "Remember what i said. Hes coming back in a couple days after his release/ban."
+    }
 }
