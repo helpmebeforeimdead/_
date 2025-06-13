@@ -1,4 +1,6 @@
-getgenv().VariableTable = {
+local GetBotGlobal = getgenv and getgenv()
+
+GetBotGlobal.VariableTable = {
     [1] = {
         [1] = "hey listen.",
         [2] = "if you ever see anyone named krone, his user is probably just a bunch of spammed letters.",
